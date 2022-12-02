@@ -1,5 +1,8 @@
 # VEHICLE_NUMBER_PLATE_DETECTION_USING_OPENCV_BY_DIGITAL_IMAGE_PROCESSING
 
+#  Abstract— 
+>  Vehicle Number plate detection plays a major role in many fields and areas.In this paper,a better and efficient method is proposed to detect the vehicle number plate from an image.This method contains number plate recognization by using Open CV and PYTESSERACT libraries.Open CV is used for taking image as input and converting image from RGB to grayscale,and detecting numberplate by using Harr Cascadeclassifier and PYTESSERACT is used to convert the number plate image to list of words.  
+
 Minor_Project
 
 
