@@ -1,7 +1,7 @@
 <!--Minor_Project-->
 
 # VEHICLE_NUMBER_PLATE_DETECTION_USING_OPENCV_BY_DIGITAL_IMAGE_PROCESSING
-
+<!--
 #  Abstract— 
 ><p>
            Vehicle Number plate detection plays a major role in many fields and areas.In this paper,a better and efficient method is 
@@ -9,8 +9,12 @@
            and PYTESSERACT libraries.Open CV is used for taking image as input and converting image from RGB to grayscale,and detecting 
            numberplate by using Harr Cascadeclassifier and PYTESSERACT is used to convert the number plate image to list of words.  
 </p>
-
-
+-->
+<!--   Explain about project --> 
+           This Repository contains the software required to detect the number plate from a vehicle.
+           This Repository is a open source for learners and developers for reference to developing a software for LPR(licence Plate Recognization).
+           
+<!--   Explain about project --> 
 # Requirements:— 
 > <p>
       Software : Anaconda Spider IDE
@@ -27,8 +31,11 @@
                 command :pip install pytesseract
   </p>
 
+<!--
 # PPT : 
 [VEHICLE PROJECT LAST 14.pptx](https://github.com/Srisrijakka1/VEHICLE_NUMBER_PLATE_DETECTION_USING_OPENCV_BY_DIGITAL_IMAGE_PROCESSING/files/10093117/VEHICLE.PROJECT.LAST.14.pptx)
+-->
+
 
 # Uploaded Image:
  
