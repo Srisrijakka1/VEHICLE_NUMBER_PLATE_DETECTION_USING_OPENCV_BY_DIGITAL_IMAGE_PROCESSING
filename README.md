@@ -36,6 +36,12 @@
 [VEHICLE PROJECT LAST 14.pptx](https://github.com/Srisrijakka1/VEHICLE_NUMBER_PLATE_DETECTION_USING_OPENCV_BY_DIGITAL_IMAGE_PROCESSING/files/10093117/VEHICLE.PROJECT.LAST.14.pptx)
 -->
 
+# Implementation:
+
+
+https://user-images.githubusercontent.com/106643865/205447081-bf76acb7-89c7-4704-a0d8-d9d97debed72.mp4
+
+
 
 # Uploaded Image:
  
