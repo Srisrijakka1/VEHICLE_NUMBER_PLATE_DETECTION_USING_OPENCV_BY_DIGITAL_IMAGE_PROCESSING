@@ -29,7 +29,14 @@
         3.pytesseract:
           pytesseract library installation is required:
                 command :pip install pytesseract
+     
   </p>
+<!--
+> <p>
+     Files :
+        1.xml file creation by reference :  https://medium.com/@vipulgote4/guide-to-make-custom-haar-cascade-xml-file-for-object-detection-with-opencv-6932e22c3f0e
+  </p>
+-->
 
 <!--
 # PPT : 
