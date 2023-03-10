@@ -42,6 +42,11 @@
 # PPT : 
 [VEHICLE PROJECT LAST 14.pptx](https://github.com/Srisrijakka1/VEHICLE_NUMBER_PLATE_DETECTION_USING_OPENCV_BY_DIGITAL_IMAGE_PROCESSING/files/10093117/VEHICLE.PROJECT.LAST.14.pptx)
 -->
+<!--
+# IEEE BASE PAPER OF OUR PROJECT
+
+[Vehicle NumberPlate Detection IEEE Base PAper.docx](https://github.com/Srisrijakka1/VEHICLE_NUMBER_PLATE_DETECTION_USING_OPENCV_BY_DIGITAL_IMAGE_PROCESSING/files/10939220/Vehicle.NumberPlate.Detection.IEEE.Base.PAper.docx)
+-->
 
 <!--
 # Documentation:
