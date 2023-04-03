@@ -15,6 +15,11 @@
            This Repository is a open source for learners and developers for reference to developing a software for LPR(licence Plate Recognization).
            
 <!--   Explain about project --> 
+<!-- -->
+To execute :
+jupiter labs: https://mybinder.org/
+git.dev
+
 # Requirements:— 
 > <p>
       Software : Anaconda Spider IDE
