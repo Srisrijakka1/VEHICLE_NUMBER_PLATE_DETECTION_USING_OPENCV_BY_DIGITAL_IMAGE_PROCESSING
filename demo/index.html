@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MINI PROJECT</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <section>
+        <video id="slide" autoplay muted loop>
+            <source src="video1.mp4" type="video/mp4" >
+        </video>
+        <ul class="navigation">
+            <li onclick="videoUrl('video1.mp4')"><img src="1.png"></li>
+            <li onclick="videoUrl('video2.mp4')"><img src="2.png"></li>
+            <li onclick="videoUrl('video3.mp4')"><img src="3.png"></li>
+            
+        </ul>
+    </section>
+    <script type="text/javascript">
+        function videoUrl(hm){
+            document.getElementById("slide").src = hm;
+        }
+    </script>
+</body>
+</html>
